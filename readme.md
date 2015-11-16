@@ -8,7 +8,7 @@
 
 1. Make a **new branch** in your <a href="https://github.com/sf-wdi-24/express-microblog" target="_blank">express-microblog</a> called `comments`.
 1. Use what you've learned from today's modules, and add to your blog the ability for users to comment on a post.
-1. Technical requirements:
+1. **Technical requirements:**
   * Page for users to create a new comment on a post.
   * Store comments separately from posts in the database.
   * Add a reference to comments into posts.
